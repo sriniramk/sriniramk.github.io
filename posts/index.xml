@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | SRINI</title>
+    <link>https://sriniramk.github.io/posts/</link>
+      <atom:link href="https://sriniramk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Aug 2019 13:08:57 -0700</lastBuildDate>
+    <image>
+      <url>https://sriniramk.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://sriniramk.github.io/posts/</link>
+    </image>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://sriniramk.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 03 Aug 2019 13:08:57 -0700</pubDate>
+      <guid>https://sriniramk.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

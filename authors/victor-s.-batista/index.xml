@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor S. Batista | SRINI</title>
+    <link>https://sriniramk.github.io/authors/victor-s.-batista/</link>
+      <atom:link href="https://sriniramk.github.io/authors/victor-s.-batista/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor S. Batista</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sriniramk.github.io/img/icon-192.png</url>
+      <title>Victor S. Batista</title>
+      <link>https://sriniramk.github.io/authors/victor-s.-batista/</link>
+    </image>
+    
+    <item>
+      <title>Experimental and Theoretical Study of CO2 Insertion into Ruthenium Hydride Complexes</title>
+      <link>https://sriniramk.github.io/publication/doi-10-1021-acs-inorgchem-5-b-02556/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/doi-10-1021-acs-inorgchem-5-b-02556/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

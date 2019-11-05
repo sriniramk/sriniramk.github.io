@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ross A. Moretti | SRINI</title>
+    <link>https://sriniramk.github.io/authors/ross-a.-moretti/</link>
+      <atom:link href="https://sriniramk.github.io/authors/ross-a.-moretti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ross A. Moretti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sriniramk.github.io/img/icon-192.png</url>
+      <title>Ross A. Moretti</title>
+      <link>https://sriniramk.github.io/authors/ross-a.-moretti/</link>
+    </image>
+    
+    <item>
+      <title>Mapping free energy regimes in electrocatalytic reductions to screen transition metal-based catalysts</title>
+      <link>https://sriniramk.github.io/publication/c-9-sc-01766-f/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/c-9-sc-01766-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

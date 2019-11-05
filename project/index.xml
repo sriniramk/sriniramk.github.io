@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | SRINI</title>
+    <link>https://sriniramk.github.io/project/</link>
+      <atom:link href="https://sriniramk.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2019 08:19:14 -0700</lastBuildDate>
+    <image>
+      <url>https://sriniramk.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://sriniramk.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Single electron transfer promotes CO2 activation</title>
+      <link>https://sriniramk.github.io/project/setco2/</link>
+      <pubDate>Mon, 16 Sep 2019 08:19:14 -0700</pubDate>
+      <guid>https://sriniramk.github.io/project/setco2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-electron reduction in first row complexes</title>
+      <link>https://sriniramk.github.io/project/coazpy/</link>
+      <pubDate>Mon, 16 Sep 2019 06:49:07 -0700</pubDate>
+      <guid>https://sriniramk.github.io/project/coazpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFT-based screening of metals and ligands for electro-catalysis</title>
+      <link>https://sriniramk.github.io/project/dft/</link>
+      <pubDate>Mon, 16 Sep 2019 06:48:54 -0700</pubDate>
+      <guid>https://sriniramk.github.io/project/dft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Voltage Interfacial Stability in Advanced Li-ion Battery Cathode Materials</title>
+      <link>https://sriniramk.github.io/project/lirich/</link>
+      <pubDate>Mon, 16 Sep 2019 06:48:44 -0700</pubDate>
+      <guid>https://sriniramk.github.io/project/lirich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligand Effects on the Free Energy of CO2 Insertion into an M-H bond</title>
+      <link>https://sriniramk.github.io/project/co2ins/</link>
+      <pubDate>Mon, 16 Sep 2019 06:26:46 -0700</pubDate>
+      <guid>https://sriniramk.github.io/project/co2ins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electro-chemistry of Metal Hydride Complexes</title>
+      <link>https://sriniramk.github.io/project/mh_echem/</link>
+      <pubDate>Sun, 25 Aug 2019 11:50:52 -0700</pubDate>
+      <guid>https://sriniramk.github.io/project/mh_echem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
