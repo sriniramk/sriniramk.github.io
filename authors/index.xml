@@ -5,12 +5,28 @@
     <link>https://sriniramk.github.io/authors/</link>
       <atom:link href="https://sriniramk.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 18:47:36 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 10:57:22 -0700</lastBuildDate>
     <image>
       <url>https://sriniramk.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://sriniramk.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Srinivasan Ramakrishnan, Byungchun Park, Jue Wu, Wanli Yang,Bryan D. McCloskey</title>
+      <link>https://sriniramk.github.io/authors/srinivasan-ramakrishnan-byungchun-park-jue-wu-wanli-yangbryan-d.-mccloskey/</link>
+      <pubDate>Tue, 14 Apr 2020 10:57:22 -0700</pubDate>
+      <guid>https://sriniramk.github.io/authors/srinivasan-ramakrishnan-byungchun-park-jue-wu-wanli-yangbryan-d.-mccloskey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haifeng Li, Srinivasan Ramakrishnan, John W Freeland, Bryan D. McCloskey, Jordi Cabana</title>
+      <link>https://sriniramk.github.io/authors/haifeng-li-srinivasan-ramakrishnan-john-w-freeland-bryan-d.-mccloskey-jordi-cabana/</link>
+      <pubDate>Thu, 09 Apr 2020 11:07:18 -0700</pubDate>
+      <guid>https://sriniramk.github.io/authors/haifeng-li-srinivasan-ramakrishnan-john-w-freeland-bryan-d.-mccloskey-jordi-cabana/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bryan D. McCloskey</title>

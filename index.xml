@@ -5,12 +5,36 @@
     <link>https://sriniramk.github.io/</link>
       <atom:link href="https://sriniramk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SRINI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2019 14:30:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 10:57:22 -0700</lastBuildDate>
     <image>
       <url>https://sriniramk.github.io/img/icon-192.png</url>
       <title>SRINI</title>
       <link>https://sriniramk.github.io/</link>
     </image>
+    
+    <item>
+      <title>Extended Interfacial Stability Through Simple Acid Rinsing in a Li-rich Oxide Cathode Material</title>
+      <link>https://sriniramk.github.io/publication/jacs2020bryan/</link>
+      <pubDate>Tue, 14 Apr 2020 10:57:22 -0700</pubDate>
+      <guid>https://sriniramk.github.io/publication/jacs2020bryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition of Redox Centers in Reactions of Lithium Intercalation in Li3RuO4 Polymorphs</title>
+      <link>https://sriniramk.github.io/publication/jacs2020jordi/</link>
+      <pubDate>Thu, 09 Apr 2020 11:07:18 -0700</pubDate>
+      <guid>https://sriniramk.github.io/publication/jacs2020jordi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRC Electrochemistry 2020: Late-Breaking Topics</title>
+      <link>https://sriniramk.github.io/talk/grc2020/</link>
+      <pubDate>Fri, 10 Jan 2020 11:17:49 -0700</pubDate>
+      <guid>https://sriniramk.github.io/talk/grc2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AIChE 2019 Electrochemistry Seminar</title>
