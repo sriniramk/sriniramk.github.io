@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | SRINI</title>
+    <link>https://sriniramk.github.io/publication/</link>
+      <atom:link href="https://sriniramk.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 10:57:22 -0700</lastBuildDate>
+    <image>
+      <url>https://sriniramk.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://sriniramk.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Extended Interfacial Stability Through Simple Acid Rinsing in a Li-rich Oxide Cathode Material</title>
+      <link>https://sriniramk.github.io/publication/jacs2020bryan/</link>
+      <pubDate>Tue, 14 Apr 2020 10:57:22 -0700</pubDate>
+      <guid>https://sriniramk.github.io/publication/jacs2020bryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition of Redox Centers in Reactions of Lithium Intercalation in Li3RuO4 Polymorphs</title>
+      <link>https://sriniramk.github.io/publication/jacs2020jordi/</link>
+      <pubDate>Thu, 09 Apr 2020 11:07:18 -0700</pubDate>
+      <guid>https://sriniramk.github.io/publication/jacs2020jordi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Interfacial Stability Through Simple Acid Rinsing in a Li-Rich Oxide Cathode Material</title>
+      <link>https://sriniramk.github.io/publication/lirich/</link>
+      <pubDate>Thu, 31 Oct 2019 18:47:36 -0700</pubDate>
+      <guid>https://sriniramk.github.io/publication/lirich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping free energy regimes in electrocatalytic reductions to screen transition metal-based catalysts</title>
+      <link>https://sriniramk.github.io/publication/c-9-sc-01766-f/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/c-9-sc-01766-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protonation of a Cobalt Phenylazopyridine Complex at the Ligand Yields a Proton, Hydride, and Hydrogen Atom Transfer Reagent</title>
+      <link>https://sriniramk.github.io/publication/doi-10-1021-jacs-8-b-06156/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/doi-10-1021-jacs-8-b-06156/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initiation of the Electrochemical Reduction of CO2 by a Singly Reduced Ruthenium(II) Bipyridine Complex</title>
+      <link>https://sriniramk.github.io/publication/doi-10-1021-acs-inorgchem-7-b-01004/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/doi-10-1021-acs-inorgchem-7-b-01004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multielectron Transfer at Cobalt: Influence of the Phenylazopyridine Ligand</title>
+      <link>https://sriniramk.github.io/publication/doi-10-1021-jacs-7-b-01047/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/doi-10-1021-jacs-7-b-01047/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and Theoretical Study of CO2 Insertion into Ruthenium Hydride Complexes</title>
+      <link>https://sriniramk.github.io/publication/doi-10-1021-acs-inorgchem-5-b-02556/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/doi-10-1021-acs-inorgchem-5-b-02556/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid oxidative hydrogen evolution from a family of square-planar nickel hydride complexes</title>
+      <link>https://sriniramk.github.io/publication/c-5-sc-03189-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/publication/c-5-sc-03189-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
