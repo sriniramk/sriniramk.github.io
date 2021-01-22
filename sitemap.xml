@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sriniramk.github.io/talk/cmu2020/</loc>
+    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sriniramk.github.io/talk/</loc>
+    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sriniramk.github.io/</loc>
+    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sriniramk.github.io/publication_types/2/</loc>
     <lastmod>2020-04-14T10:57:22-07:00</lastmod>
     <priority>0</priority>
@@ -31,12 +47,6 @@
   </url>
   
   <url>
-    <loc>https://sriniramk.github.io/</loc>
-    <lastmod>2020-04-14T10:57:22-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sriniramk.github.io/authors/srinivasan-ramakrishnan-byungchun-park-jue-wu-wanli-yangbryan-d.-mccloskey/</loc>
     <lastmod>2020-04-14T10:57:22-07:00</lastmod>
     <priority>0</priority>
@@ -54,12 +64,12 @@
   </url>
   
   <url>
-    <loc>https://sriniramk.github.io/talk/grc2020/</loc>
-    <lastmod>2020-01-10T11:17:49-07:00</lastmod>
+    <loc>https://sriniramk.github.io/talk/minne2020/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sriniramk.github.io/talk/</loc>
+    <loc>https://sriniramk.github.io/talk/grc2020/</loc>
     <lastmod>2020-01-10T11:17:49-07:00</lastmod>
   </url>
   
