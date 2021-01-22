@@ -5,12 +5,20 @@
     <link>https://sriniramk.github.io/</link>
       <atom:link href="https://sriniramk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SRINI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 10:57:22 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sriniramk.github.io/img/icon-192.png</url>
       <title>SRINI</title>
       <link>https://sriniramk.github.io/</link>
     </image>
+    
+    <item>
+      <title>Battery Materials Webinar Series, Carnegie Mellon University</title>
+      <link>https://sriniramk.github.io/talk/cmu2020/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/talk/cmu2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extended Interfacial Stability Through Simple Acid Rinsing in a Li-rich Oxide Cathode Material</title>
@@ -25,6 +33,14 @@
       <link>https://sriniramk.github.io/publication/jacs2020jordi/</link>
       <pubDate>Thu, 09 Apr 2020 11:07:18 -0700</pubDate>
       <guid>https://sriniramk.github.io/publication/jacs2020jordi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Department of Chemical Engineering and Material Science, University of Minnesota</title>
+      <link>https://sriniramk.github.io/talk/minne2020/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/talk/minne2020/</guid>
       <description></description>
     </item>
     
