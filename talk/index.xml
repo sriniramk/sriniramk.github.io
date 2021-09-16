@@ -5,12 +5,28 @@
     <link>https://sriniramk.github.io/talk/</link>
       <atom:link href="https://sriniramk.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 11:17:49 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sriniramk.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://sriniramk.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Battery Materials Webinar Series, Carnegie Mellon University</title>
+      <link>https://sriniramk.github.io/talk/cmu2020/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/talk/cmu2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Department of Chemical Engineering and Material Science, University of Minnesota</title>
+      <link>https://sriniramk.github.io/talk/minne2020/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sriniramk.github.io/talk/minne2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GRC Electrochemistry 2020: Late-Breaking Topics</title>
